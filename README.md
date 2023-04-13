@@ -8,4 +8,6 @@ The data used in this project is <b> Mental Health in Tech Survey </b> from Kagg
 To excute the notebook, we recommand that you install all the libraries below : 
   - Pandas
   - Scikit-learn
+  - matplotlib
+  - seaborn
 

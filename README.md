@@ -10,3 +10,9 @@ To excute the notebook, we recommand that you install all the libraries below :
   - Scikit-learn
   - Matplotlib
   - Seaborn
+
+This project is devdided to some parts : 
+  - Data preprocessing
+  - Exploratoty Data Analysis
+  - Feature Engineering
+  - ...

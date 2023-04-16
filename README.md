@@ -15,5 +15,7 @@ This project is devdided to some parts :
   - Data preprocessing
   - Exploratoty Data Analysis
   - Feature Engineering
-  - ...
+  - Model Selection 
+  - Model Training and evaluation
+  - Model Tuning
 

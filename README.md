@@ -18,4 +18,6 @@ This project is devdided to some parts :
   - Model Selection 
   - Model Training and evaluation
   - Model Tuning
+  - Deployment 
+  - Conclusion
 

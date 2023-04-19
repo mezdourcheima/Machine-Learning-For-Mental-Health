@@ -15,4 +15,19 @@ This project is devdided to some parts :
   - Data preprocessing
   - Exploratoty Data Analysis
   - Feature Engineering
+  - Model Selection 
+  - Model Training and evaluation
+  - Model Tuning
+  - Deployment 
+  - Conclusion
+
+
+
+
+
+By 
+   - Mezdour Cheima
+   - Amine Ould Kaci
+   - Hayet Touati
+   - Amani Chaimaa Sellam 
 

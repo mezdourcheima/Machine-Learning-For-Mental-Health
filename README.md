@@ -15,4 +15,4 @@ This project is devdided to some parts :
   - Data preprocessing
   - Exploratoty Data Analysis
   - Feature Engineering
-  - ...
+

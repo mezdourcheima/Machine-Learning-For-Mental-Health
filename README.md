@@ -10,6 +10,8 @@ To excute the notebook, we recommand that you install all the libraries below :
   - Scikit-learn
   - Matplotlib
   - Seaborn
+  - Tensorflow
+  - Keras
 
 This project is devdided to some parts : 
   - Data preprocessing
